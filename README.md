@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE (AI & ML) Student  
 💻 I enjoy working on AI/ML projects and creating tech that makes an impact                               
-🌱 Currently learning NLP, Data Science and Java 
+🌱 Currently learning NLP, Data Science and Java                                             
 📍 Based in Theni, Tamil Nadu  
 
 ---
