@@ -1,11 +1,15 @@
 ### 👋 Hi, I'm Sakthi Shri
 
-🎓 B.Tech CSE AIML student  
-💡 I create interesting and meaningful projects!  
-🌱 Currently exploring NLP, Data Science & Backend Development  
-📍 Madurai, Tamil Nadu  
+🎓 B.Tech CSE (AI & ML) Student  
+💻 I enjoy working on AI/ML projects and creating tech that makes an impact
+🌱 Currently learning NLP, Data Science  
+📍 Based in Theni, Tamil Nadu  
 
-🔗 [Linktree](https://linktr.ee/YourLink)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sakthi-shri?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bl6SDJDPXR%2FuPhJrmAbWvXQ%3D%3D)  
+---
+
+### 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sakthi-shri?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bl6SDJDPXR%2FuPhJrmAbWvXQ%3D%3D)  
+
 
 
